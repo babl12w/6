@@ -1,8 +1,6 @@
-feedparser==6.0.11
-aiogram==3.13
-python-binance
-pandas
-numpy
-ta
+aiogram==3.13.0
 aiohttp
-asyncio
+feedparser
+deep-translator
+Pillow
+python-dotenv

@@ -1,6 +1,6 @@
-aiogram==3.13.0
-aiohttp
-feedparser
-deep-translator
-Pillow
-python-dotenv
+aiogram==3.13.1
+aiohttp==3.10.5
+feedparser==6.0.11
+deep-translator==1.11.4
+Pillow==10.4.0
+beautifulsoup4==4.12.3
